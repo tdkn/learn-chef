@@ -1,4 +1,6 @@
-# Learn Chef #1
+# Learn the Chef basics on Ubuntu
+
+Original Source: http://learn.chef.io/learn-the-basics/ubuntu/
 
 ## UbuntuでChefの基礎を学ぶ
 Chef を使えばインフラストラクチャーのポリシー(サーバ上のソフトウェアをどのように運用管理するか)をコードとして表現することができます。
